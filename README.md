@@ -32,9 +32,9 @@ This repository is part of an project for the module Programming for Data Analys
 - Alternatively, if you already have Python installed and do not wish to install Anaconda, you can download the requirements.txt file and run pip3 install -r requirements.txt
 2. Open command terminal. If using windows it is recommended to install Cmder - https://cmder.net/
 3. Download this repository with the following command using the command line - git clone https://github.com/andrewjscott/Programming-for-Data-Analysis-Project
-4. Enter the following command on command line to open Jupyter, will will then open in your web browser - jupyter lab
+4. Enter the following command on command line to open Jupyter, will then open in your web browser - jupyter lab
 5. In the Jupyter tab that opens in your browser, navigate to the Simulation.ipynb notebook you wish to run and open
-6. Click on Run and then click on Restart Kernal and Run all cells.
+6. Click on Run and then click on Restart Kernel and Run all cells.
 -----------
 ## References 
 **1**.<a id='f1'></a> Fisher, R.A., 1947. The analysis of covariance method for the relation between a part and the whole. Biometrics, 3(2), pp.65-68. [online] Doi:  https://doi.org/10.2307/3001641 [Accessed 24 December 2021].[↩](#a1) 
