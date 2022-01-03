@@ -5,7 +5,7 @@
 
 This repository contains a Python Jupyter notebook which looks at dataset of cat information collected by Ronald Fisher[<sup>1</sup>](#f1).<a id='a1'></a> and then generates a simulated dataset based on Fisher's original, as well as adding additional randomly simulated variables to the dataset not contained in the original.  
 
-A rendered version of both the notebooks can be viewed using nbviewer     
+A rendered version of the notebook can be viewed using nbviewer.    
 [![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](https://nbviewer.org/github/andrewjscott/Programming-for-Data-Analysis-Project/blob/main/Simulation.ipynb)   
 
 
