@@ -5,6 +5,10 @@
 
 This repository contains a Python Jupyter notebook which looks at dataset of cat information collected by Ronald Fisher[<sup>1</sup>](#f1).<a id='a1'></a> and then generates a simulated dataset based on Fisher's original, as well as adding additional randomly simulated variables to the dataset not contained in the original.  
 
+A rendered version of both the notebooks can be viewed using nbviewer     
+[![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](https://nbviewer.org/github/andrewjscott/Programming-for-Data-Analysis-Project/blob/main/Simulation.ipynb)   
+
+
 This repository is part of an project for the module Programming for Data Analysis, for the course HDip in Computing in Data Analytics in GMIT. The assignment overview is as follows: 
 
 > #### Problem statement
@@ -32,6 +36,7 @@ This repository is part of an project for the module Programming for Data Analys
 - Alternatively, if you already have Python installed and do not wish to install Anaconda, you can download the requirements.txt file and run pip3 install -r requirements.txt
 2. Open command terminal. If using windows it is recommended to install Cmder - https://cmder.net/
 3. Download this repository with the following command using the command line - git clone https://github.com/andrewjscott/Programming-for-Data-Analysis-Project.git
+- Note that the repository contains a text file of cat names in the 'cats-dataset' folder that is necessary for the code in the notebook to run.
 4. Enter the following command on command line to open Jupyter, will then open in your web browser - jupyter lab
 5. In the Jupyter tab that opens in your browser, navigate to the Simulation.ipynb notebook you wish to run and open
 6. Click on Run and then click on Restart Kernel and Run all cells.
